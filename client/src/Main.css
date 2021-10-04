@@ -1,0 +1,18 @@
+.contact-input {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+.radio {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-left: 20px;
+}
+.radio-area {
+    display: flex;
+}
+.customer-form {
+    width: 800px;
+	margin: 30px auto;
+}
